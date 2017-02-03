@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3, 2017
 
 ## Student Name:  
-(First and Last Name)
+Khaina Duncan
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned how to move files from the local repository. We also discussed our top five concepts of a web page.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to transfer files from a local repository to a remote repository on GitHub.com
+2. I learned about the basic Git commands like push, pull, and clone.
+3. I learned about how Git differs from version control systems.
